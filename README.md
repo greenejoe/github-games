@@ -3,3 +3,5 @@
 Our mission is to create a collection of classic open source games.
 
 Play the game at `githubschool.github.io/github-games-joe`
+
+Just push play - spacebar
